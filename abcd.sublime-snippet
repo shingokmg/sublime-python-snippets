@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+A, B, C, D = map(int, input().split())
+
+]]></content>
+	<tabTrigger>abcd</tabTrigger>
+	<scope>source.python</scope>
+	<description>A, B, C, D = map(int, input().split())</description>
+</snippet>
