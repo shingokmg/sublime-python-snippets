@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+for i in range(${1:N}):
+]]></content>
+	<tabTrigger>f</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

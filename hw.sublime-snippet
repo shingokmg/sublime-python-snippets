@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+H, W = map(int, input().split())
+A = [list(map(int, input().split())) for i in range(H)]
+
+]]></content>
+	<tabTrigger>hw</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

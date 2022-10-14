@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+def isprime(N):
+    if N < 2:
+        return False
+    for i in range(2, N):
+        if N % i == 0:
+            return False
+    return True
+
+
+]]></content>
+	<tabTrigger>isprime</tabTrigger>
+	<scope>source.python</scope>
+    <description>素数判定</description>
+</snippet>
