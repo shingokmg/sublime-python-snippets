@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+A = list(map(int, input().split()))
+
+]]></content>
+	<tabTrigger>al</tabTrigger>
+	<scope>source.python</scope>
+	<description>A = list(map(int, input().split()))</description>
+</snippet>

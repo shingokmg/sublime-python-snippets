@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+A = [int(input()) for _ in range(N)]
+
+]]></content>
+	<tabTrigger>an</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

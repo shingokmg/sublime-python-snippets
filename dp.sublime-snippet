@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+dp = [[0 for i in range(10)] for j in range(N+1)]
+
+]]></content>
+	<tabTrigger>dp</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
