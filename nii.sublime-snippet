@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+N = int(input())
+
+]]></content>
+	<tabTrigger>nii</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
