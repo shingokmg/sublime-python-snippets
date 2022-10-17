@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+N, M = map(int, input().split())
+
+]]></content>
+	<tabTrigger>nm</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+print('No')
+
+]]></content>
+	<tabTrigger>no</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
