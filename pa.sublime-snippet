@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+print(ans)
+
+]]></content>
+	<tabTrigger>pa</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

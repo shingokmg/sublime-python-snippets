@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+S = input()
+
+]]></content>
+	<tabTrigger>si</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
