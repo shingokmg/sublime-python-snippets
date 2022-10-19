@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+'''input
+
+
+'''
+
+
+]]></content>
+	<tabTrigger>test</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
