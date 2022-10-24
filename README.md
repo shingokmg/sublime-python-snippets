@@ -5,5 +5,7 @@ Python Snippets for Sublime Text 4
 
 ### int
 
+### list
+
 ## Yes or No
 
