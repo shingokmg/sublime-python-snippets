@@ -12,4 +12,4 @@ Python Snippets for Sublime Text 4
 ## Yes or No
 test
 
-print
+## print
