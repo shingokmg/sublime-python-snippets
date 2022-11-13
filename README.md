@@ -5,8 +5,6 @@ Python Snippets for Sublime Text 4
 
 ## Standard Output
 
-### int
-
 ### list
 
 ## Yes or No
